@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+}
+.grid{
+    width:100%
+    
+}
+.box1{
+    background-color: antiquewhite;
+}
+.box2{
+    background-color: rgb(54, 197, 106);
+}
+.box3{
+    background-color: rgb(222, 137, 25);
+}
+.box4{
+    background-color: rgb(213, 239, 134);
+}
+.box5{
+    background-color: rgb(213, 34, 34);
+}
+.box6{
+    background-color: rgb(192, 52, 205);
+}
